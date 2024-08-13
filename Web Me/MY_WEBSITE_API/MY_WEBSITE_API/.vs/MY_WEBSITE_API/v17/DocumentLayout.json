@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\derek\\source\\repos\\MY_WEBSITE_API\\MY_WEBSITE_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\derek\\source\\repos\\MY_WEBSITE_API\\MY_WEBSITE_API\\Controllers\\Web\\UserTabletSetup\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\Web\\UserTabletSetup\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\derek\\source\\repos\\MY_WEBSITE_API\\MY_WEBSITE_API\\Models\\Web\\UserTabletSetup\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Web\\UserTabletSetup\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\derek\\source\\repos\\MY_WEBSITE_API\\MY_WEBSITE_API\\Controllers\\Web\\ConsumerTabletSetup\\SalesOrderController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\Web\\ConsumerTabletSetup\\SalesOrderController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\derek\\source\\repos\\MY_WEBSITE_API\\MY_WEBSITE_API\\Models\\Web\\ConsumerTabletSetup\\SalesOrder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Web\\ConsumerTabletSetup\\SalesOrder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\derek\\source\\repos\\MY_WEBSITE_API\\MY_WEBSITE_API\\Controllers\\Web\\UserTabletSetup\\DepartmentController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\Web\\UserTabletSetup\\DepartmentController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\derek\\source\\repos\\MY_WEBSITE_API\\MY_WEBSITE_API\\Controllers\\Web\\UserTabletSetup\\RoleController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\Web\\UserTabletSetup\\RoleController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\derek\\source\\repos\\MY_WEBSITE_API\\MY_WEBSITE_API\\Controllers\\Web\\ConsumerTabletSetup\\CustomerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\Web\\ConsumerTabletSetup\\CustomerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SalesOrder.cs",
+              "DocumentMoniker": "C:\\Users\\derek\\source\\repos\\MY_WEBSITE_API\\MY_WEBSITE_API\\Models\\Web\\ConsumerTabletSetup\\SalesOrder.cs",
+              "RelativeDocumentMoniker": "Models\\Web\\ConsumerTabletSetup\\SalesOrder.cs",
+              "ToolTip": "C:\\Users\\derek\\source\\repos\\MY_WEBSITE_API\\MY_WEBSITE_API\\Models\\Web\\ConsumerTabletSetup\\SalesOrder.cs",
+              "RelativeToolTip": "Models\\Web\\ConsumerTabletSetup\\SalesOrder.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T02:16:07.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SalesOrderController.cs",
+              "DocumentMoniker": "C:\\Users\\derek\\source\\repos\\MY_WEBSITE_API\\MY_WEBSITE_API\\Controllers\\Web\\ConsumerTabletSetup\\SalesOrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Web\\ConsumerTabletSetup\\SalesOrderController.cs",
+              "ToolTip": "C:\\Users\\derek\\source\\repos\\MY_WEBSITE_API\\MY_WEBSITE_API\\Controllers\\Web\\ConsumerTabletSetup\\SalesOrderController.cs",
+              "RelativeToolTip": "Controllers\\Web\\ConsumerTabletSetup\\SalesOrderController.cs",
+              "ViewState": "AQIAACgCAAAAAAAAAAAAAC4CAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T02:15:45.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\derek\\source\\repos\\MY_WEBSITE_API\\MY_WEBSITE_API\\Controllers\\Web\\UserTabletSetup\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Web\\UserTabletSetup\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\derek\\source\\repos\\MY_WEBSITE_API\\MY_WEBSITE_API\\Controllers\\Web\\UserTabletSetup\\DepartmentController.cs",
+              "RelativeToolTip": "Controllers\\Web\\UserTabletSetup\\DepartmentController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB8AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T01:43:21.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\derek\\source\\repos\\MY_WEBSITE_API\\MY_WEBSITE_API\\Controllers\\Web\\UserTabletSetup\\RoleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Web\\UserTabletSetup\\RoleController.cs",
+              "ToolTip": "C:\\Users\\derek\\source\\repos\\MY_WEBSITE_API\\MY_WEBSITE_API\\Controllers\\Web\\UserTabletSetup\\RoleController.cs",
+              "RelativeToolTip": "Controllers\\Web\\UserTabletSetup\\RoleController.cs",
+              "ViewState": "AQIAAKUAAAAAAAAAAAAAAD8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T01:32:29.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\derek\\source\\repos\\MY_WEBSITE_API\\MY_WEBSITE_API\\Models\\Web\\UserTabletSetup\\User.cs",
+              "RelativeDocumentMoniker": "Models\\Web\\UserTabletSetup\\User.cs",
+              "ToolTip": "C:\\Users\\derek\\source\\repos\\MY_WEBSITE_API\\MY_WEBSITE_API\\Models\\Web\\UserTabletSetup\\User.cs",
+              "RelativeToolTip": "Models\\Web\\UserTabletSetup\\User.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAawCEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T09:33:07.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\derek\\source\\repos\\MY_WEBSITE_API\\MY_WEBSITE_API\\Controllers\\Web\\UserTabletSetup\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Web\\UserTabletSetup\\UserController.cs",
+              "ToolTip": "C:\\Users\\derek\\source\\repos\\MY_WEBSITE_API\\MY_WEBSITE_API\\Controllers\\Web\\UserTabletSetup\\UserController.cs",
+              "RelativeToolTip": "Controllers\\Web\\UserTabletSetup\\UserController.cs",
+              "ViewState": "AQIAABYCAAAAAAAAAAAAACECAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T09:30:54.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\derek\\source\\repos\\MY_WEBSITE_API\\MY_WEBSITE_API\\Controllers\\Web\\ConsumerTabletSetup\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Web\\ConsumerTabletSetup\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\derek\\source\\repos\\MY_WEBSITE_API\\MY_WEBSITE_API\\Controllers\\Web\\ConsumerTabletSetup\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\Web\\ConsumerTabletSetup\\CustomerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T09:30:49.696Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

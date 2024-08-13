@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\Controllers\\Web",
+    "\\Controllers\\Web\\ConsumerTabletSetup",
+    "\\Controllers\\Web\\UserTabletSetup",
+    "\\Models",
+    "\\Models\\Web",
+    "\\Models\\Web\\ConsumerTabletSetup",
+    "\\Models\\Web\\UserTabletSetup"
+  ],
+  "SelectedNode": "\\Controllers\\Web\\UserTabletSetup\\UserController.cs",
+  "PreviewInSolutionExplorer": false
+}

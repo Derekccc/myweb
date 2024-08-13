@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MY_WEBSITE_API",
+    "\\MY_WEBSITE_API\\Controllers",
+    "\\MY_WEBSITE_API\\Controllers\\Web",
+    "\\MY_WEBSITE_API\\Controllers\\Web\\ConsumerTabletSetup",
+    "\\MY_WEBSITE_API\\Controllers\\Web\\UserTabletSetup",
+    "\\MY_WEBSITE_API\\Models",
+    "\\MY_WEBSITE_API\\Models\\Web",
+    "\\MY_WEBSITE_API\\Models\\Web\\ConsumerTabletSetup",
+    "\\MY_WEBSITE_API\\Models\\Web\\UserTabletSetup"
+  ],
+  "SelectedNode": "\\MY_WEBSITE_API\\Models\\Web\\UserTabletSetup\\RoleAuthority.cs",
+  "PreviewInSolutionExplorer": false
+}
