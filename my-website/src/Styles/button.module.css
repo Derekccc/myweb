@@ -1,0 +1,89 @@
+.btn {
+  font-size: 14px;
+  border: none;
+  padding: 7px;
+  border-radius: 5px;
+  transition: all 0.4s;
+  outline: none !important;
+  word-break: keep-all;
+  margin-right: 4px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+}
+
+.smallBtnSize {
+  width: 80px;
+}
+
+.normalBtnSize {
+  width: 100px;
+}
+
+.lgBtnSize {
+  width: 120px;
+}
+
+.xlBtnSize {
+  width: 150px;
+}
+
+.xxlBtnSize {
+  width: 180px;
+}
+
+.btnAll {
+  background-color: #0f74db;
+  color: white;
+}
+
+.btnAll:hover {
+  background: #008fb3;
+  color: white;
+  cursor: pointer;
+}
+
+.btnExcel {
+  background-color: #1d6f42;
+  color: white;
+}
+
+.btnExcel:hover {
+  background: #258e54;
+  color: white;
+  cursor: pointer;
+}
+
+.btnCancel {
+  background-color: white;
+  border-color: #000000;
+  color: black;
+  border-color: #cccccc;
+}
+
+.btnCancel:hover {
+  background: #cccccc;
+  color: black;
+}
+
+.btnActivator {
+  background-color: #0866c6;
+  color: white;
+}
+
+.btnActivator:hover {
+  background: #286090;
+  color: white;
+}
+
+.btnDelete {
+  background-color: #d40b0b;
+  color: white;
+}
+
+.btnDelete:hover {
+  background-color: #ff0000 !important;
+}
+
+.tdBtnActionWrapperOne {
+  text-align: "-webkit-center";
+  width: 150px;
+}

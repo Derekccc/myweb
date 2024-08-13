@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\src",
+    "\\src\\Components",
+    "\\src\\Components\\SalesOrderMaintenance",
+    "\\src\\Components\\SalesOrderMaintenance\\SalesOrderManage",
+    "\\src\\Components\\UserTabletSetup",
+    "\\src\\Components\\UserTabletSetup\\RoleAuthorityMaintenance"
+  ],
+  "PreviewInSolutionExplorer": false
+}

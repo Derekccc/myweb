@@ -1,0 +1,276 @@
+/* Navbar */
+.navbar {
+  background-color: #deb887;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  flex-wrap: nowrap;
+}
+
+/* Navbar Left */
+.navbar-left {
+  display: flex;
+  align-items: center;
+}
+
+/* Navbar Toggle */
+.navbar-toggle {
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 20px;
+  width: 30px;
+  margin-right: 10px; /* Add space between toggle and Home link */
+}
+
+.line {
+  width: 100%;
+  height: 3px;
+  background-color: black;
+  transition: transform 0.3s ease;
+}
+
+.line.open:nth-child(1) {
+  transform: translateY(6px) rotate(45deg);
+}
+
+.line.open:nth-child(2) {
+  opacity: 0;
+}
+
+.line.open:nth-child(3) {
+  transform: translateY(-6px) rotate(-45deg);
+}
+
+/* Dropdown Button Link Color */
+.navbar .nav-link,
+.navbar .nav-link:hover,
+.navbar .nav-link:active,
+.navbar .nav-link:focus {
+  color: black; /* Change to your desired color */
+}
+
+
+.icon {
+  margin-right: 5px;
+}
+
+/* User Setup Section */
+.user-setup {
+  margin-top: 10px; /* Space between navbar and user setup menu */
+  width: 200px; /* Fixed width for the user setup menu */
+  z-index: 1000; /* Ensure it appears above other elements */
+}
+
+.user-setup-title {
+  font-weight: bold;
+}
+
+/* Dropdown Body */
+.dropdown-body {
+  padding: 0;
+  background-color: transparent;
+
+}
+
+/* Navbar Logo */
+.top-navbar {
+  background-color: #deb887;
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
+
+.navbar-logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-bottom: 2px solid black;
+}
+
+.navbar-logo-link {
+  text-decoration: none;
+}
+
+.logo-img {
+  width: 50px;
+  height: auto;
+}
+
+/* Navbar Right */
+.navbar-right {
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+}
+
+.nav-link:active {
+  color: transparent !important;
+}
+
+/* .accordion {
+  width: 250px;
+  font-size: 0.9rem;
+  background: #222d32 !important;
+  background-color: transparent !important;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+.accordionheader > button {
+  color: #b8c7ce;
+  background-color: transparent !important;
+  padding: 10px;
+  line-height: 30px;
+} */
+
+/* .accordionheader > button::after {
+  background-image: url("data:image/svg+xml,%3csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 16 16%27 fill=%27%230c63e4%27%3e%3cpath fill-rule=%27evenodd%27 d=%27M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z%27/%3e%3c/svg%3e") !important;
+}
+
+.accordionheader:hover {
+  background-color: #e6fcfc;
+} */
+
+.logoCenter {
+  text-align: center;
+  padding: 10px;
+  border-bottom: 1px solid #fff;
+  background-color: white;
+}
+
+.transparent {
+  background-color: transparent !important;
+}
+
+.logo {
+  font-size: 2rem;
+  color: white;
+}
+
+.nav ul {
+  margin: 0;
+  list-style-type: none;
+  padding: 0;
+}
+
+.nav li {
+  display: list-item;
+  text-align: -webkit-match-parent;
+}
+
+.nav a {
+  font-size: 16px;
+  display: block;
+  cursor: pointer;
+  color: #b8c7ce;
+  padding: 10px;
+  line-height: 30px;
+  border-bottom: none;
+  text-decoration: none;
+  -webkit-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+}
+
+.nav a:hover,
+.nav a:active,
+.nav a.active {
+  background-color: #24acac;
+}
+
+/* Position and sizing of burger button */
+.bm-burger-button {
+  position: fixed;
+  width: 36px;
+  height: 30px;
+  left: 36px;
+  top: 36px;
+}
+
+/* Color/shape of burger icon bars */
+.bm-burger-bars {
+  background: #373a47;
+}
+
+/* Color/shape of burger icon bars on hover*/
+.bm-burger-bars-hover {
+  background: #a90000;
+}
+
+/* Position and sizing of clickable cross button */
+.bm-cross-button {
+  height: 24px;
+  width: 24px;
+}
+
+/* Color/shape of close button cross */
+.bm-cross {
+  background: #bdc3c7;
+}
+
+/*
+Sidebar wrapper styles
+Note: Beware of modifying this element as it can break the animations - you should not need to touch it in most cases
+*/
+.bm-menu-wrap {
+  position: fixed;
+  height: 100%;
+}
+
+/* General sidebar styles */
+.bm-menu {
+  background: #373a47;
+  padding: 2.5em 1.5em 0;
+  font-size: 1.15em;
+}
+
+/* Morph shape necessary with bubble or elastic */
+.bm-morph-shape {
+  fill: #373a47;
+}
+
+/* Wrapper for item list */
+.bm-item-list {
+  color: #b8b7ad;
+  padding: 0.8em;
+}
+
+/* Individual item */
+.bm-item {
+  display: inline-block;
+}
+
+/* Styling of overlay */
+.bm-overlay {
+  background: rgba(0, 0, 0, 0.3);
+}
+
+
+
+.nav-link-with-border {
+  border-bottom: 1px solid black; /* Change the color and thickness as needed */
+}
+
+.nav-link-with-border:last-child {
+  border-bottom: none; /* Remove border from the last element */
+}
+
+.nav-link-with-border:hover {
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3); /* Adjust the shadow properties as needed */
+}
+
+.dropdown-body .nav-link {
+  color: #333; /* Default text color */
+  transition: color 0.3s; /* Smooth transition for color change */
+}
+
+.dropdown-body .nav-link:hover {
+  color: #007bff; /* Text color when hovered */
+}
+
+
+
+
